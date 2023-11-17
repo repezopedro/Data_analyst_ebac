@@ -12,6 +12,6 @@ Este repositório contém exercicíos e projetos onde pude demonstrar minhas hab
 
 O repositório está dividido em três pastas:
 
-Projects: Esta pasta contém projetos aonde demonstrei minhas habilidades como analista de dados.
-Notebook_version: Esta pasta contém exercícios realizados ao decorrer do curso no formato de notebook feito através do Google Colab. 
-Python_version: Esta pasta contém alguns exercícios realizados ao decorrer do curso no formato .py 
+- Projects: Esta pasta contém projetos aonde demonstrei minhas habilidades como analista de dados.
+- Notebook_version: Esta pasta contém exercícios realizados ao decorrer do curso no formato de notebook feito através do Google Colab. 
+- Python_version: Esta pasta contém alguns exercícios realizados ao decorrer do curso no formato .py 
