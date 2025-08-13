@@ -10,7 +10,7 @@ Este repositório contém exercicíos e projetos utilizados para estudos e apren
 
 ## 📃 Repositório:
 
-O repositório está dividido em três pastas:
+O repositório está dividido em pastas:
 
 - Projects: Esta pasta conterá projetos de estudos em Análises de Dados
 - Python_version: Esta pasta contém alguns exercícios realizados no formato .py 
